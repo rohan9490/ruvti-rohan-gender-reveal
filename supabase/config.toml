@@ -1,0 +1,11 @@
+[functions.submit-vote]
+verify_jwt = false
+
+[functions.in-person-vote]
+verify_jwt = false
+
+[functions.get-results]
+verify_jwt = false
+
+[functions.send-reveal-results]
+verify_jwt = false
